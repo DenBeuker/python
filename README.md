@@ -5,3 +5,4 @@ CH9:
 - mcb.py 
 - madlibs.py 
 - regSearch.py 
+- fileRemover.py
