@@ -8,3 +8,4 @@ CH9:
 
 CH10:
 - fileRemover.py
+- selCopy.py
